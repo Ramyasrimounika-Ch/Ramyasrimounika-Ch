@@ -1,5 +1,6 @@
 <div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Mounika%20Chinamanagundla&fontSize=55&fontAlignY=40&animation=fadeIn" />
+  
 # Applied AI Engineer | Generative AI | Multi-Agent Systems 🚀
 
 <a href="https://www.linkedin.com/in/ch-mounika-ramyasri-61b064373/">

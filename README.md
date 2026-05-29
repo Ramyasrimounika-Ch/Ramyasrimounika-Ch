@@ -1,7 +1,5 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Mounika%20Chinamanagundla&fontSize=55&fontAlignY=40&animation=fadeIn" />
-
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Mounika%20Chinamanagundla&fontSize=55&fontAlignY=40&animation=fadeIn" />
 # Applied AI Engineer | Generative AI | Multi-Agent Systems 🚀
 
 <a href="https://www.linkedin.com/in/ch-mounika-ramyasri-61b064373/">
@@ -16,6 +14,7 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<a href="https://github.com/Ramyasrimounika-Ch"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 </div>
 
 ---
@@ -50,6 +49,5 @@
 
 🌐 Portfolio: https://portfolio-red-ten-41.vercel.app
 
-💻 GitHub: github.com/Ramyasrimounika-Ch
 
 ---

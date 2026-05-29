@@ -4,15 +4,15 @@
 
 # AI Engineer | Generative AI Developer | Builder 🚀
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/ch-mounika-ramyasri-61b064373/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:ramyasrimounika03@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://your-portfolio.vercel.app">
+<a href="https://portfolio-red-ten-41.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -52,10 +52,10 @@
 
 ## 📫 Connect With Me
 
-📧 Email: YOUR_EMAIL@gmail.com
+📧 Email: ramyasrimounika03@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+🔗 LinkedIn: https://www.linkedin.com/in/ch-mounika-ramyasri-61b064373/
 
-🌐 Portfolio: https://your-portfolio.vercel.app
+🌐 Portfolio: https://portfolio-red-ten-41.vercel.app/
 
 ---

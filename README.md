@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Ramya%20Sri%20Mounika&fontSize=55&fontAlignY=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Mounika%20Chinamanagundla&fontSize=55&fontAlignY=40&animation=fadeIn" />
 
-# AI Engineer | Generative AI Developer | Builder 🚀
+# Applied AI Engineer | Generative AI | Multi-Agent Systems 🚀
 
 <a href="https://www.linkedin.com/in/ch-mounika-ramyasri-61b064373/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -13,11 +13,7 @@
 </a>
 
 <a href="https://portfolio-red-ten-41.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ramyasrimounika-Ch">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -26,36 +22,34 @@
 
 # 👩‍💻 About Me
 
-🎓 CSE Undergraduate at IIIT Kottayam
+🎓 B.Tech Computer Science Undergraduate at IIIT Kottayam
 
-🤖 Applied AI Engineer passionate about building real-world AI systems
+🤖 Applied AI Engineer focused on building intelligent systems using Generative AI, Retrieval-Augmented Generation (RAG), Multi-Agent Architectures, and Large Language Models
 
-🧠 Skilled in:
-- Python
-- Generative AI
-- RAG
-- Multi-Agent AI
-- C++
-- Data Structures & Algorithms
+🧠 Strong in Python, C++, Data Structures & Algorithms (300+ LeetCode problems solved)
 
-🚀 Projects:
-- DSA Multi-Agent Assistant
-- Multimodal Video QA RAG
-- Medical RAG Chatbot
-- AI Learning Platforms
+🚀 Built end-to-end AI applications including:
 
-🏆 Solved 300+ LeetCode problems
+* DSA Multi-Agent Problem Solving System
+* Multimodal Video Search & QA System
+* Medical RAG Chatbot
+* AI Personalized Learning Platform
+* AI Resume Screening System
 
-🌱 Currently exploring Agentic AI, LLM Systems, and AI Infrastructure
+⚙️ Experienced with LangChain, LangGraph, Hugging Face, FastAPI, FAISS, ChromaDB, Vector Databases, and LLM-powered workflows
+
+🌱 Currently exploring Agentic AI, LLMOps, AI Infrastructure, and Autonomous Agent Systems
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: ramyasrimounika03@gmail.com
+📧 Email: [ramyasrimounika03@gmail.com](mailto:ramyasrimounika03@gmail.com)
 
 🔗 LinkedIn: https://www.linkedin.com/in/ch-mounika-ramyasri-61b064373/
 
 🌐 Portfolio: https://portfolio-red-ten-41.vercel.app/
+
+💻 GitHub: https://github.com/Ramyasrimounika-Ch
 
 ---

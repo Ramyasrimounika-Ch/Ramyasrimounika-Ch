@@ -24,7 +24,7 @@
 
 🎓 B.Tech Computer Science Undergraduate at IIIT Kottayam
 
-🤖 Applied AI Engineer focused on building intelligent systems using Generative AI, Retrieval-Augmented Generation (RAG), Multi-Agent Architectures, and Large Language Models
+🤖 Applied AI Engineer focused on building intelligent systems using Generative AI, RAG, Multi-Agent Architectures, and Large Language Models
 
 🧠 Strong in Python, C++, Data Structures & Algorithms (300+ LeetCode problems solved)
 
@@ -46,10 +46,10 @@
 
 📧 Email: [ramyasrimounika03@gmail.com](mailto:ramyasrimounika03@gmail.com)
 
-🔗 LinkedIn: https://www.linkedin.com/in/ch-mounika-ramyasri-61b064373/
+🔗 LinkedIn: [www.linkedin.com/in/ch-mounika-ramyasri-61b064373](http://www.linkedin.com/in/ch-mounika-ramyasri-61b064373)
 
-🌐 Portfolio: https://portfolio-red-ten-41.vercel.app/
+🌐 Portfolio: https://portfolio-red-ten-41.vercel.app
 
-💻 GitHub: https://github.com/Ramyasrimounika-Ch
+💻 GitHub: github.com/Ramyasrimounika-Ch
 
 ---
